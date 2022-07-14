@@ -1,7 +1,33 @@
-### Hi there 👋
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=3776AB"/>
+### Seongwon Choi
+Hi There!👋
 
+<hr>
+
+#### Tech Stack
+<img src="https://img.shields.io/badge/HTML5-FF8D70?style=flat&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1F9FFF?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Python-5CB9FF?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-0091FF?style=flat&logo=Cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/JavaScript-FFF9BD?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Node.js&logoColor=339933"/>
+
+
+
+#### Studying
+<img src="https://img.shields.io/badge/React-DEF8FF?style=flat&logo=React&logoColor=61DAFB"/>
+=>
+<img src="https://img.shields.io/badge/Next.js-C0C0C0?style=flat&logo=Next.js&logoColor=000000"/>
+
+<hr>
+
+#### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi5798&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
+
+</div>
 <!--
 **choi5798/choi5798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
