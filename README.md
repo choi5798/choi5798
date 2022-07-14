@@ -27,12 +27,27 @@ Hi There!👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
 
+<hr>
+
+#### Contact
+
+<a href="https://www.facebook.com/profile.php?id=100005107483028" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-C0C0C0?style=social&logo=Facebook&logoColor=1877F2"/>
+</a>
+<a href="https://www.instagram.com/jerry.sw/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-C0C0C0?style=social&logo=Instagram&logoColor=E4405F"/>
+</a>
+<a href="https://github.com/choi5798" target="_blank">
+<img src="https://img.shields.io/badge/Github-C0C0C0?style=social&logo=Github&logoColor=181717"/>
+</a>
+<a href="https://velog.io/@choi5798" target="_blank">
+<img src="https://img.shields.io/badge/Velog-C0C0C0?style=social&logo=Velog&logoColor=20C997"/>
+</a>
+
 </div>
 <!--
 **choi5798/choi5798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -42,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
