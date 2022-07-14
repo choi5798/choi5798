@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=3776AB"/>
+
 <!--
 **choi5798/choi5798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
