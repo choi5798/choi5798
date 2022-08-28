@@ -35,7 +35,7 @@ Hi There!👋
 <img src="https://img.shields.io/badge/Facebook-C0C0C0?style=social&logo=Facebook&logoColor=1877F2"/>
 </a>
 <a href="https://www.instagram.com/jerry.sw/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-C0C0C0?style=social&logo=Instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-C0C0C0?style=social&logo=Instagram&logoColor=E4405F"/>
 </a>
 <a href="https://github.com/choi5798" target="_blank">
 <img src="https://img.shields.io/badge/Github-C0C0C0?style=social&logo=Github&logoColor=181717"/>
