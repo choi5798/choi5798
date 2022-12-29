@@ -7,7 +7,7 @@ Hi There!👋
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/Python-5CB9FF?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-00b6ff?style=flat&logo=Java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-E0EBEB?style=flat&logo=C&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/C++-0091FF?style=flat&logo=Cplusplus&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/HTML5-FF8D70?style=flat&logo=HTML5&logoColor=E34F26"/>
