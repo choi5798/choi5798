@@ -24,9 +24,9 @@ Hi There!👋
 <hr>
 
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi5798&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=choi5798&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=choi5798&layout=compact&theme=tokyonight)
 
 <hr>
 
