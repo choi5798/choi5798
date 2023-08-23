@@ -28,6 +28,11 @@ Hi There!👋
 
 <hr>
 
+#### Badge
+[![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choi5798)](https://solved.ac/choi5798)
+
+<hr>
+
 #### Contact
 
 <a href="https://www.facebook.com/profile.php?id=100005107483028" target="_blank">
